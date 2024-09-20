@@ -1,8 +1,13 @@
-👋 Hi, 
-My name is Ted. I’m a digital marketer, data analyst, and ux designer well versed in Excel, R, SQL, Tableau, Google Analytics, Adobe suite, Canva, Google and facebook Ads Manager, sales force, and figma. Im the founder of The Forigin Initiative where I help the youth develop skills within economic literacy.
+👋 Hi,
+
+My name is Ted. I’m a digital marketer, data analyst, and ux designer well versed in Excel, R, SQL, Tableau, Google Analytics, Adobe suite, Canva, Google and facebook Ads Manager, sales force, and figma. I am a well versed human being and I am the founder of The Forigin Initiative where I help the youth develop skills within economic literacy. My goal in life is to be an asset to humanity and future generations.
+
 • 🌱 I’m currently working on enhancing my experience and skills in ux design and data analytics in figma, R, and Adobe InDesign
+
 • 🧠 I’m looking to collaborate on team projects to enhance any company that is an asset to humanity.
+
 • 📫 How to reach me: LinkIn - www.linkedin.com/in/ted-gloster-jr-7a4b14191
+
 • 😄 Pronouns: He/Him
 
 <!---
