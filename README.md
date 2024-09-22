@@ -1,6 +1,6 @@
 👋 Hi,
 
-My name is Ted. I’m a digital marketer, data analyst, and ux designer well versed in Excel, R, SQL, Tableau, Google Analytics, Adobe suite, Canva, Google and facebook Ads Manager, sales force, and figma. I am a well versed human being and I am the founder of The Forigin Initiative where I help the youth develop skills within economic literacy. My goal in life is to be an asset to humanity and future generations.
+My name is Ted. I’m a digital marketer, data analyst, and ux designer well versed in Excel, SQL, Tableau, Google Analytics, Adobe suite, Canva, Google and facebook Ads Manager, sales force, and figma. I am a well versed human being and I am the founder of The Forigin Initiative where I help the youth develop skills within economic literacy. My goal in life is to be an asset to humanity and future generations.
 
 • 🌱 I’m currently working on enhancing my experience and skills in ux design and data analytics in figma, R, and Adobe InDesign
 
